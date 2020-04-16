@@ -1,2 +1,2 @@
 # Decalorify
-An Android App to track Calories
+An Android App to track Calorie Intake
